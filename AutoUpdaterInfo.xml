@@ -3,11 +3,11 @@
     <!-- Versión actual (cambia esto con cada release) -->
     <version>1.0.0.0</version>
     
-    <!-- URL del ZIP en GitHub Releases -->
-    <url>https://github.com/manuelbautista/MigraTrackReleases/releases/download/v1.0.0/MigraTrack_v1.0.0.zip</url>
+    <!-- URL del ZIP en el mismo repositorio GitHub -->
+    <url>https://raw.githubusercontent.com/manuelbautista/MigraTrackReleases/main/MigraTrack_v1.0.0.zip</url>
     
-    <!-- URL del changelog -->
-    <changelog>https://github.com/manuelbautista/MigraTrackReleases/releases/tag/v1.0.0</changelog>
+    <!-- URL del changelog (opcional, puede ser un archivo en el repo) -->
+    <changelog>https://raw.githubusercontent.com/manuelbautista/MigraTrackReleases/main/changelog.txt</changelog>
     
     <!-- Actualización obligatoria -->
     <mandatory>false</mandatory>
