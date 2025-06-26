@@ -11,4 +11,5 @@
     
     <!-- Actualización obligatoria -->
     <mandatory>false</mandatory>
+	 <args>/SILENT</args>
 </item>
