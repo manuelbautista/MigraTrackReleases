@@ -11,7 +11,4 @@
     
     <!-- Actualización obligatoria -->
     <mandatory>false</mandatory>
-    
-    <!-- Hash SHA256 del ZIP (se actualiza con cada release) -->
-    <checksum algorithm="SHA256">PENDIENTE_CALCULAR_HASH</checksum>
 </item>
