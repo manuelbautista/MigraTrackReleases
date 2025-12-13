@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <!-- Versión actual (cambia esto con cada release) -->
-    <version>1.0.21.0</version>
+    <version>1.0.24.0</version>
     
     <!-- URL del ZIP en el mismo repositorio GitHub -->
-    <url>https://raw.githubusercontent.com/manuelbautista/MigraTrackReleases/main/MigraTrack-Setup-v1.0.21.exe</url>
+    <url>https://raw.githubusercontent.com/manuelbautista/MigraTrackReleases/main/MigraTrack-Setup-v1.0.24.exe</url>
     
     <!-- URL del changelog (opcional, puede ser un archivo en el repo) -->
     <changelog>https://raw.githubusercontent.com/manuelbautista/MigraTrackReleases/main/changelog.txt</changelog>
